@@ -1,0 +1,20 @@
+ID: 101
+Name: Zülfükar
+Surname: MİNAZ
+Gender: Male
+Age: 23
+Phone Number: 05011011111
+Email: zm@gmail.com
+Address: Manisa, Turkey
+Customer ID: 1001
+--------------------------------------------------
+ID: 102
+Name: Zeynep
+Surname: MİNAZ
+Gender: Female
+Age: 20
+Phone Number: 05011011112
+Email: zm@outlook.com
+Address: Istanbul, Turkey
+Vendor ID: 2001
+--------------------------------------------------

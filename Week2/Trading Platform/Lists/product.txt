@@ -1,0 +1,19 @@
+Product ID: 101
+Name: Fridge360
+Price: 3000
+Description: It is a very useful fridge.
+Brand: Franke
+Model: F360
+Capacity: 120
+Energy Rating: A++
+Has Freezer: Yes
+--------------------------------------------------
+Product ID: 201
+Name: Oven360
+Price: 2500
+Description: It is a very useful oven.
+Brand: Franke
+Model: O360
+Volume: 80
+Has self cleaning: Yes
+--------------------------------------------------
